@@ -1,0 +1,13 @@
+header {
+  background-color: #fff;
+}
+
+body {
+  font-size: 20px;
+  background-color: red;
+  margin: 0px 0px 0px 0px;
+}
+
+.red {
+  color: red;
+}
